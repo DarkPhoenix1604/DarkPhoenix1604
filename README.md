@@ -42,13 +42,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/aadityapahariya?theme=light&font=Baloo+Bhai&ext=activity" width="275" />
+      <img src="https://leetcard.jacoblin.cool/aadityapahariya1604?theme=light&font=Baloo+Bhai&ext=activity" width="275" />
     </td>
     <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aadityapahariya" width="275" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aadityapahariya1604" width="275" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesla-69&theme=default" width="275" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkPhoenix1604&theme=default" width="275" />
     </td>
   </tr>
 </table>
